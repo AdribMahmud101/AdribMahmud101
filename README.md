@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://app.daily.dev/AdribMahmud"><img src="https://api.daily.dev/devcards/99e1c1907cf8494285efb19b2ae1cc5a.png?r=1qg" width="100" alt="Adrib Mahmud's Dev Card"/></a>
+
 -->
 
 Obsessed with computers and cutting edge tech.
